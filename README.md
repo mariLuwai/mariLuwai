@@ -15,11 +15,10 @@
 </details>
 
 <div>
- 
 <div align="left">
   <a href="https://github.com/blueisas">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mariLuwai&count_private=true&include_all_commits=true&show_icons=true&theme=city_lights&hide_border=false&show_owner=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariLuwai&theme=city_lights&hide_border=false&&layout=compact"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mariLuwai&show_icons=true&theme=city_lights"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariLuwai&layout=compact&theme=city_lights"/>
   </a>
 </div>
 
