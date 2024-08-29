@@ -10,7 +10,7 @@
 <details>
   <summary> Linguagens: </summary>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,julia" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,julia,java" />
   </a>
 </details>
 
