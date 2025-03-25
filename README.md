@@ -1,6 +1,6 @@
 ## oioi!
 
-- 🍃 Curso Ciência da Computação na UFRJ (3º período).
+- 🍃 Curso Ciência da Computação na UFRJ (4º período).
 - 🍃 Idiomas: inglês avançado, espanhol intermediário e coreano básico.
 - 🍃 Github voltado para projetos pessoais e atividades acadêmicas.
 - 🍃 Interesse em Data Science, Machine Learning e em programação competitiva.
