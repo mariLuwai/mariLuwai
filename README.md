@@ -17,7 +17,7 @@
 <details>
  <summary> Ferramentas: </summary>
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,sklearn,selenium,tensorflow,pytorch,opencv,docker,figma,git,gitlab,notion,obsidian,linux,vscode,windows&perline=6" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,sklearn,selenium,tensorflow,pytorch,opencv,docker,figma,git,gitlab,notion,obsidian,linux,vscode,windows&perline=5" />
  </a>
 </details>
 
