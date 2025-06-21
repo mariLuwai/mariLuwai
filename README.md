@@ -14,6 +14,13 @@
   </a>
 </details>
 
+<details>
+ <summary> Ferramentas: </summary>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,mysql,sklearn,selenium,tensorflow,pytorch,opencv,docker,figma,git,gitlab,notion,obsidian,linux,vscode,windows&perline=6" />
+ </a>
+</details>
+
 <div>
 <div align="left">
   <a>
