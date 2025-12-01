@@ -1,6 +1,6 @@
 ## oioi!
 
-- 🍃 Curso Ciência da Computação na UFRJ (4º período).
+- 🍃 Curso Ciência da Computação na UFRJ (5º período).
 - 🍃 Idiomas: inglês avançado, espanhol intermediário e coreano básico.
 - 🍃 Github voltado para projetos pessoais e atividades acadêmicas.
 - 🍃 Interesse em Data Science, Machine Learning e em programação competitiva.
@@ -21,12 +21,6 @@
  </a>
 </details>
 
-<div>
-<div align="left">
-  <a>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mariLuwai&show_icons=true&theme=city_lights"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariLuwai&layout=compact&theme=city_lights"/>
-  </a>
-</div>
+
 
 
